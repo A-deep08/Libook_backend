@@ -1,6 +1,6 @@
 # 📚 Book Library Backend
 
-![Java](https://img.shields.io/badge/Java-17-blue)
+![Java](https://img.shields.io/badge/Java-8-blue)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-2.x-brightgreen)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
 
@@ -90,8 +90,9 @@ mvn spring-boot:run
 Server runs at:
 
 http://localhost:8080
+```
+🗄 Database Schema
 
-###🗄 Database Schema
 User Table
 Field	Type
 id	Long (Primary Key)
