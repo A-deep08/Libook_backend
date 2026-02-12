@@ -65,7 +65,7 @@ src/main/java/com/example/booklibrary
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/A-deep08/Libook_backend
 cd booklibrary-backend
 2️⃣ Create MySQL Database
 CREATE DATABASE booklibrary;
